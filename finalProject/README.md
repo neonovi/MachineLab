@@ -1,2 +1,2 @@
 picture of final project
-![final project](www.google.com)
+![final project](https://github.com/neonovi/MachineLab/blob/master/finalProject/image.jpg)
