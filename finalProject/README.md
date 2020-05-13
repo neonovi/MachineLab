@@ -9,7 +9,7 @@ Overiview: My project ended up being a small miniature version of my hobby. I re
 * arduino (with motorshield)
 
 Before discussing the functionality, I'll talk about how the idea came to mind. 
-
+Before coming up with this idea that I ended up with, I wanted to work on the clock mechanism (as an idea for the final project, since the prompt was a big clock used by the whole class). I made some rough sketches of my initial idea:
 ![final project](https://github.com/neonovi/MachineLab/blob/master/finalProject/image.jpg)
 possible topics
 ![possible topics](https://github.com/neonovi/MachineLab/blob/master/finalProject/image2.jpg)
