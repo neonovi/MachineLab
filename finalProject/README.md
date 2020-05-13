@@ -1,12 +1,12 @@
 Overiview: My project ended up being a small miniature version of my hobby. I really like to play a VR game called beat saber. My project ended up being a replica of a player slicing notes. This project consists of the following parts:
-    *body
-    *stand
-    *4 servo motors
-    *4 parts of notes
-    *2 hands
-    *2 stepper motors
-    *piezo buzzer
-    *arduino (with motorshield)
+* body
+* stand
+* 4 servo motors
+* 4 parts of notes
+* 2 hands
+* 2 stepper motors
+* piezo buzzer
+* arduino (with motorshield)
 
 Before discussing the functionality, I'll talk about how the idea came to mind. 
 
