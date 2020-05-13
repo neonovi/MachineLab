@@ -1,8 +1,12 @@
-Overiview: My project ended up being a small miniature version of my hobby. I really like to play a VR game called beat saber. 
+Overiview: My project ended up being a small miniature version of my hobby. 
 Here is the to-so list for the project:
-- [ ] bla bla
+- [x] Come up with an idea
+- [x] sketch it out
+- [x] make it in fusion
+- [x] apply functionality
+- [x] submit everything to readme.md
 
-My project ended up being a replica of a player slicing notes. This project consists of the following parts:
+I really like to play a VR game called beat saber. My project ended up being a replica of a player slicing notes. This project consists of the following parts:
 * body
 * stand
 * 4 servo motors
